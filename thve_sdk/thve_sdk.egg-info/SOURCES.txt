@@ -1,0 +1,5 @@
+setup.py
+thve_sdk.egg-info/PKG-INFO
+thve_sdk.egg-info/SOURCES.txt
+thve_sdk.egg-info/dependency_links.txt
+thve_sdk.egg-info/top_level.txt

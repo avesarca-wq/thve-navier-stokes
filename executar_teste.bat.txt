@@ -1,0 +1,6 @@
+@echo off
+cd /d C:\Users\ricar\OneDrive\Antigos 02_2026\Desktop\thve_project
+python test_client.py
+echo.
+echo ==================================================
+pause
